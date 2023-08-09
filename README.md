@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" width="480"/></div>
+<div align="center"><img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" width="600"/></div>
 
 My name is Stanley Sayianka, an aspiring machine learning research scientist. I am a data scientist trained in statistical methods, with a focus on quantitative finance (so far). I thoroughly enjoy studying machine learning, and strive to combine my studies with daily experiences in order to deliver valuable insights wherever I am. In my studies, I love exploring how learning algorithms actually learn, how they respond to changes, and how they evolve to handle the ever-growing complexity of the real world.
 
