@@ -7,7 +7,7 @@ My interests: `Machine Learning` `probabilistic reasoning` `information theory` 
 ---
 
 Tools:  
-<div style="display: flex; gap: 100px;">
+<div style="display: flex; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" />
@@ -17,6 +17,7 @@ Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="35" height="35" />
 </div>
+
 
 
 
