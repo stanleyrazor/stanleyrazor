@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-My name is Stanley Sayianka, an aspiring machine learning research scientist. I am a data scientist trained in statistical methods, with a focus on quantitative finance (so far). I thoroughly enjoy studying machine learning, and strive to combine my studies with daily experiences in order to deliver valuable insights wherever I am. In my studies, I love exploring how learning algorithms actually learn, how they respond to changes, and how they evolve to handle the ever-growing complexity of the real world.
+My name is Stanley Sayianka, an aspiring machine learning research scientist. I am a data scientist trained in statistical methods, with a focus on quantitative finance and epidemiological modelling. I thoroughly enjoy studying machine learning, and strive to combine my studies with daily experiences in order to deliver valuable insights wherever I am. In my studies, I love exploring how learning algorithms actually learn, how they respond to changes, and how they evolve to handle the ever-growing complexity of the real world.
 
-My interests: `Machine Learning` `probabilistic reasoning` `information theory` `Quant Finance` `algorithmic trading`.
+My interests: `Machine Learning` `probabilistic reasoning` `information theory` `Quant Finance` `Epidemiology`.
 
 ---
 
