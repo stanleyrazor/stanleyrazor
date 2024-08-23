@@ -4,6 +4,8 @@ My name is Stanley Sayianka, an aspiring machine learning research scientist. I 
 
 My interests: `Machine Learning` `probabilistic reasoning` `information theory` `Quant Finance` `Epidemiology`.
 
+Blog: https://stanleyrazor.github.io/portfolio
+
 ---
 
 Tools:  
