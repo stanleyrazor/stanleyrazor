@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-I’m Sayianka, a quantitative analyst with a strong background in analytical techniques (statistical and mathematical modelling) with applications to quantitative finance and epidemiology. I’m passionate about exploring how learning algorithms work—how they learn, adapt, and evolve to tackle real-world challenges.
+I’m stan, a quantitative analyst with a strong background in analytical techniques (statistical and mathematical modelling) with applications to quantitative finance and epidemiology. I’m passionate about exploring how learning algorithms work — how they learn, adapt, and evolve to tackle real-world challenges.
 
 My interests: `Machine Learning` `probabilistic reasoning` `information theory` `Quant Finance` `Epidemiology`.
 
