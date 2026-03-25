@@ -18,7 +18,7 @@ Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com" width="35" height="35" alt="Stan Logo" />
+  <img src="https://simpleicons.org" width="35" height="35" alt="Stan Logo" />
 </div>
 
 
